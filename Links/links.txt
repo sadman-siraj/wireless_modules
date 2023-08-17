@@ -1,0 +1,21 @@
+1. https://wireless-solutions.de/products/other-ism-band-solutions/im222a/
+
+2. https://www.silabs.com/wireless/zigbee/efr32mg24-series-2-socs
+
+3. https://www.ti.com/product/CC2674R10
+
+4. https://www.wi2wi.com/wireless-connectivity/mcu-embedded-series/multi-protocol/wc640-mcu-embedded-wi-fi-a-b-g-n-bluetooth-5-0-802-15-4
+
+5. https://www.hoperf.com/modules/rf_transceiver/RFM22BW.html
+
+6. https://www.ti.com/product/CC1312R
+
+7. https://www.ti.com/product/CC1352R
+
+8. https://www.amazon.com/MakerFocus-NRF24L01-Wireless-Transceiver-Regulator/dp/B08LSPZHT8/ref=pd_bxgy_sccl_1/130-5969442-5221714?pd_rd_w=d9nwH&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=98732H07YKD3H5V5T1R6&pd_rd_wg=rT0Wj&pd_rd_r=7e957537-f32f-4b3f-ae6b-dff1a9053a40&pd_rd_i=B08LSPZHT8&th=1
+
+9. https://www.newark.com/microchip/rn2483a-i-rm104/lora-txrx-module-928mhz-14dbm/dp/70AC4315?st=Lora
+
+10. https://www.adafruit.com/product/5684#technical-details
+
+11. https://shop.imst.de/wireless-modules/lora-products/22/im880b-l-lr-base-long-range-radio-module
